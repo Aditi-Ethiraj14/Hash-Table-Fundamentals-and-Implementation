@@ -1,9 +1,12 @@
-# Hash Table Fundamentals and Implementation
+# STEP Weekly Practice Statements
+
+This repository contains implementations of Weekly STEP Practice Problems.
+
+---
+# 01 Week 01 and 02 Practice Statement (Hash Table Fundamentals and Implementation)
 
 This repository contains implementations of **10 real-world problems using Hash Tables** and related data structures.  
 The problems are divided into **Week 1** and **Week 2**, demonstrating different applications such as caching systems, analytics dashboards, autocomplete systems, rate limiting, and financial transaction analysis.
-
----
 
 # Week 1
 
